@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,7 +73,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,7 +90,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=22
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -543,24 +543,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Revision
-Value=1.0
+Name=Approvedby
+Value=Vu Pham
 
 [Parameter2]
-Name=MasterProject
-Value=BEE_DAL
+Name=Checkedby
+Value=Bao Bui
 
 [Parameter3]
 Name=Drawnby
 Value=Duy Nguyen
 
 [Parameter4]
-Name=Checkedby
-Value=Bao Bui
+Name=MasterProject
+Value=BEE_DAL
 
 [Parameter5]
-Name=Approvedby
-Value=Vu Pham
+Name=Revision
+Value=1.0
 
 [DiffPairSuffix1]
 Positive=_H
