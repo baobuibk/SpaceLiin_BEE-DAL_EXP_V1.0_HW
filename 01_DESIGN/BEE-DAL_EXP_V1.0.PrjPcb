@@ -560,28 +560,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Size
-Value=A3
+Name=Approvedby
+Value=Vu Pham
 
 [Parameter2]
-Name=Revision
-Value=1.0
-
-[Parameter3]
-Name=MasterProject
-Value=BEE_DAL
-
-[Parameter4]
-Name=Drawnby
-Value=Duy Nguyen
-
-[Parameter5]
 Name=Checkedby
 Value=Bao Bui
 
+[Parameter3]
+Name=Drawnby
+Value=Duy Nguyen
+
+[Parameter4]
+Name=MasterProject
+Value=BEE_DAL
+
+[Parameter5]
+Name=Revision
+Value=1.0
+
 [Parameter6]
-Name=Approvedby
-Value=Vu Pham
+Name=Size
+Value=A3
 
 [DiffPairSuffix1]
 Positive=_H
