@@ -1625,6 +1625,16 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=12V_EXP|NetColor=$00FF6E6E
+Net2=NetName=3.3V_COM|NetColor=$008DABEF
+Net3=NetName=3.3V_MCU|NetColor=$00FF99CF
+Net4=NetName=3.3V_MOTOR|NetColor=$00BDC3FF
+Net5=NetName=5V_EXP|NetColor=$00FFFF6E
+Net6=NetName=5V_MOTOR|NetColor=clYellow
+Net7=NetName=5V_SLN_HD|NetColor=$00FF6EFF
+Net8=NetName=GND|NetColor=$006B6E78
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
