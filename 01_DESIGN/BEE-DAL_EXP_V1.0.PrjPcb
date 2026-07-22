@@ -1754,7 +1754,7 @@ Net3=NetName=3.3V_MCU|NetColor=$00FF99CF
 Net4=NetName=3.3V_MOTOR|NetColor=$00BDC3FF
 Net5=NetName=5V_EXP|NetColor=$00FFFF6E
 Net6=NetName=5V_MOTOR|NetColor=clYellow
-Net7=NetName=5V_SLN_HD|NetColor=$00FF6EFF
+Net7=NetName=5V_SLN_HD|NetColor=$005426D6
 Net8=NetName=GND|NetColor=$006B6E78
 
 [Comparison Options]
