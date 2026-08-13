@@ -14,32 +14,32 @@ Generating : Bottom Paste
 
 Used DCodes :
     D21
-    D22
-    D23
-    D25
-    D27
-    D31
-    D36
+    D24
+    D32
+    D34
+    D37
+    D38
+    D39
+    D40
     D41
-    D44
-    D45
-    D46
+    D42
+    D43
     D47
-    D48
     D49
+    D51
     D54
+    D55
     D56
-    D57
-    D58
-    D60
-    D65
+    D61
+    D63
+    D66
     D142
+    D143
     D144
     D145
     D146
     D147
     D148
-    D149
     D150
     D151
     D152
@@ -127,34 +127,34 @@ Generating : Bottom Solder
 Used DCodes :
     D71
     D72
-    D73
-    D74
     D75
-    D77
-    D81
-    D86
+    D83
+    D85
+    D88
+    D89
+    D90
     D91
+    D92
     D93
     D94
-    D95
-    D96
     D97
-    D98
+    D99
     D101
     D103
     D104
-    D106
-    D107
-    D109
-    D114
+    D105
+    D108
+    D110
+    D112
+    D115
     D121
     D122
     D123
     D124
     D125
     D126
+    D146
     D147
-    D152
     D155
     D156
     D157
@@ -181,9 +181,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D42
-    D50
     D52
+    D57
+    D59
     D71
     D72
     D73
@@ -295,27 +295,27 @@ Used DCodes :
     D13
     D18
     D21
-    D22
-    D23
-    D25
-    D27
-    D31
-    D36
+    D24
+    D32
+    D34
+    D37
+    D38
+    D39
+    D40
     D41
-    D44
-    D45
-    D46
+    D42
+    D43
     D47
-    D48
     D49
+    D51
     D54
+    D55
     D56
-    D57
-    D58
-    D60
-    D65
+    D61
+    D63
+    D66
     D71
-    D123
+    D124
     D129
     D130
     D131
@@ -354,8 +354,8 @@ Generating : L5_GND
 
 
 Used DCodes :
-    D123
-    D134
+    D124
+    D133
     D135
     D136
     D137
@@ -376,9 +376,9 @@ Generating : L4_PWR
 
 Used DCodes :
     D11
-    D123
+    D124
     D129
-    D134
+    D133
     D135
     D136
     D137
@@ -400,10 +400,10 @@ Generating : L3_SIGNAL
 Used DCodes :
     D11
     D12
-    D123
+    D124
     D129
     D132
-    D134
+    D133
     D135
     D136
     D137
@@ -423,8 +423,8 @@ Generating : L2_GND
 
 
 Used DCodes :
-    D123
-    D134
+    D124
+    D133
     D135
     D136
     D137
@@ -457,6 +457,7 @@ Used DCodes :
     D26
     D27
     D28
+    D29
     D30
     D31
     D32
@@ -466,25 +467,24 @@ Used DCodes :
     D36
     D37
     D38
+    D39
     D40
     D41
     D42
     D43
     D44
     D45
-    D46
     D47
     D48
     D49
-    D50
+    D51
     D52
     D53
     D54
+    D55
     D56
     D57
-    D58
     D59
-    D60
     D61
     D62
     D63
@@ -496,11 +496,11 @@ Used DCodes :
     D69
     D70
     D71
-    D89
-    D99
-    D102
-    D115
-    D123
+    D100
+    D106
+    D107
+    D116
+    D124
     D127
     D128
     D129

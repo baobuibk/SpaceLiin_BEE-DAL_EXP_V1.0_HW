@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BEE-DAL_EXP_V1.0.PcbDoc   12-Aug-26  5:10:53 PM
+NCDrill File Report For: BEE-DAL_EXP_V1.0.PcbDoc   13-Aug-26  3:10:33 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L6_BOT
@@ -7,7 +7,7 @@ ASCII RoundHoles File : BEE-DAL_EXP_V1.0.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             1128      PTH        2290.76mm (90.19inch)
+T1      0.2mm (8mil)                                              Round             1128      PTH        2356.67mm (92.78inch)
 T2      0.3mm (12mil)                                             Round             10        PTH        30.33mm (1.19inch)
 T3      0.9mm (35mil)                                             Round             104       PTH        318.10mm (12.52inch)
 T4      1mm (39mil)                                               Round             46        PTH        149.26mm (5.88inch)
