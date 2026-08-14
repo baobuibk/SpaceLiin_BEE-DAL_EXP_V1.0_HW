@@ -14,10 +14,10 @@ Generating : Bottom Paste
 
 Used DCodes :
     D21
-    D24
-    D32
-    D34
-    D37
+    D22
+    D25
+    D33
+    D35
     D38
     D39
     D40
@@ -40,9 +40,9 @@ Used DCodes :
     D146
     D147
     D148
+    D149
     D150
     D151
-    D152
     D153
     D154
     D155
@@ -127,10 +127,10 @@ Generating : Bottom Solder
 Used DCodes :
     D71
     D72
-    D75
-    D83
-    D85
-    D88
+    D73
+    D76
+    D84
+    D86
     D89
     D90
     D91
@@ -153,9 +153,9 @@ Used DCodes :
     D124
     D125
     D126
-    D146
-    D147
-    D155
+    D143
+    D149
+    D150
     D156
     D157
     D158
@@ -295,10 +295,10 @@ Used DCodes :
     D13
     D18
     D21
-    D24
-    D32
-    D34
-    D37
+    D22
+    D25
+    D33
+    D35
     D38
     D39
     D40
@@ -402,7 +402,7 @@ Used DCodes :
     D12
     D124
     D129
-    D132
+    D131
     D133
     D135
     D136
