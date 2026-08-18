@@ -679,7 +679,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=..\05_SMT\BEE-DAL_EXP_V1.0.PCBDwf
+DocumentPath=..\04_GERBER\BEE-DAL_EXP_V1.0.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -693,7 +693,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GACKWWUV
+DocumentUniqueId=PSCMNCOT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BEE-DAL_EXP_V1.0\BEE-DAL_EXP_V1.0.DRR

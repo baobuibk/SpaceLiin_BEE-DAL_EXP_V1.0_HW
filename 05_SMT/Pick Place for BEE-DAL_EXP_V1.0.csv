@@ -4,13 +4,15 @@ D:\BEE-DAL\BEE-DAL_EXP_V1.0\01_DESIGN\Project Outputs for BEE-DAL_EXP_V1.0\Pick 
 ========================================================================================================================
 File Design Information:
 
-Date:       15-08-26
-Time:       17:33
-Revision:   71ec9fa914d968095dbe0ca5d36b1689f84b9928
+Date:       18-08-26
+Time:       08:18
+Revision:   a36849ccdf9e0365d04d4b674e7946c5b68dae79
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"JP7","DNP/0R","BottomLayer","RES_C_1608X60","14.4333","44.0188","180",""
+"JP6","DNP/0R","BottomLayer","RES_C_1608X60","14.4333","45.9696","0",""
 "C79","47uF/25V","TopLayer","CAP_C_3225X80","72.1458","26.1793","0","CAP High Value"
 "C78","47uF/25V","TopLayer","CAP_C_3225X80","76.8458","26.1793","180","CAP High Value"
 "J14","5040500591","TopLayer","MOLEX_5040500591","86.6530","44.7519","270",""
@@ -179,14 +181,14 @@ Units used: mm
 "U7","RV-3129-C3-32.768KHZ-OPTION-A-TB-QA","BottomLayer","IC_RV-3129-C3_32.768KHZ_OPTION_A_TB_QA","75.0943","61.6533","0","Real-Time Clock Module, Temperature compensated, in 2.5 x 3.7 mm package"
 "U6","MB85RS2MTAPNF-G-BDERE1","TopLayer","SOIC127P602X173-8N","63.4310","60.7475","90","FRAM _Ferroelectric RAM_ Memory IC 2Mb _256K x 8_ SPI 40MHz 8-SOP"
 "U5","SAMV71Q21B","TopLayer","AP6-00118","42.5716","41.3144","0","SAM 32-bit ARM Cortex-M* RISC MCU, SAMV71B Series, QFP144"
-"U4","SN65C3232PWR","BottomLayer","SOP65P640X120-16N","20.0006","49.9194","0","2/2 Transceiver Full RS232 16-TSSOP 1GHz"
-"U3","SN65HVD230DR","BottomLayer","SOIC127P600X175-8N","19.9266","43.5326","180","3.3 V CAN Transceiver with Standby Mode"
+"U4","SN65C3232PWR","BottomLayer","SOP65P640X120-16N","20.0006","53.9194","0","2/2 Transceiver Full RS232 16-TSSOP 1GHz"
+"U3","SN65HVD230DR","BottomLayer","SOIC127P600X175-8N","19.9266","45.1326","180","3.3 V CAN Transceiver with Standby Mode"
 "U2","TPS259470ARPWR","TopLayer","VQFN-HR-10","17.4866","35.1437","0",""
 "U1","TPS259470ARPWR","TopLayer","VQFN-HR-10","17.4866","9.3914","0",""
 "TP2","","TopLayer","Testpoint_80","54.9845","48.2737","90","Test Point"
 "TP1","","TopLayer","Testpoint_80","56.4001","38.0644","90","Test Point"
-"R320","10k","BottomLayer","RES_C_1005X40","25.3401","55.8985","270","RES"
-"R319","10k","BottomLayer","RES_C_1005X40","14.5006","56.1194","270","RES"
+"R320","10k","BottomLayer","RES_C_1005X40","25.3401","56.1694","180","RES"
+"R319","10k","BottomLayer","RES_C_1005X40","14.0333","56.1694","0","RES"
 "R318","DNP/0R","TopLayer","RES_C_1005X40","81.0434","66.8166","180","RES"
 "R317","DNP/0R","TopLayer","RES_C_1005X40","71.1434","71.4000","0","RES"
 "R316","DNP/0R","TopLayer","RES_C_1005X40","71.1434","66.3345","0","RES"
@@ -392,10 +394,10 @@ Units used: mm
 "R24","10k","BottomLayer","RES_C_1005X40","13.7100","81.1050","90","RES"
 "R23","10k","BottomLayer","RES_C_1005X40","10.4325","81.1050","90","RES"
 "R22","22R","TopLayer","RES_C_1005X40","58.3080","49.9624","180","RES"
-"R20","10k","BottomLayer","RES_C_1005X40","14.0333","45.1326","0","RES"
-"R19","60R","BottomLayer","RES_C_1005X40","14.0333","42.8826","180","RES"
-"R18","22R","BottomLayer","RES_C_1005X40","14.0333","41.7576","0","RES"
-"R17","60R","BottomLayer","RES_C_1005X40","14.0333","44.0076","0","RES"
+"R20","10k","BottomLayer","RES_C_1005X40","14.0333","48.6000","0","RES"
+"R19","60R","BottomLayer","RES_C_1005X40","14.0333","42.6326","180","RES"
+"R18","22R","BottomLayer","RES_C_1005X40","14.0333","41.3826","0","RES"
+"R17","60R","BottomLayer","RES_C_1005X40","14.0333","47.3576","0","RES"
 "R16","1.6k","TopLayer","RES_C_1005X40","20.8432","36.3171","180","RES"
 "R15","47k","TopLayer","RES_C_1005X40","14.3050","34.3171","0","RES"
 "R13","1k","TopLayer","RES_C_1005X40","32.4831","9.0200","270","RES"
@@ -436,10 +438,10 @@ Units used: mm
 "D3","_LED_YELLOW","TopLayer","LED_0603","67.2200","46.1400","180",""
 "D2","SS54","BottomLayer","DO-214AC_SMA","16.4189","33.2667","180","DIODE SCHOTTKY"
 "D1","SS54","BottomLayer","DO-214AC_SMA","16.4189","6.8830","180","DIODE SCHOTTKY"
-"C144","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.5006","49.3106","270","CAP"
-"C143","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.5006","53.8498","270","CAP"
-"C142","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.5006","51.5802","270","CAP"
-"C141","0.1uF/25V","TopLayer","CAP_C_1005X60","17.3300","47.9624","270","CAP"
+"C144","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.0333","52.7394","0","CAP"
+"C143","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.0333","55.0481","0","CAP"
+"C142","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.0333","53.7994","0","CAP"
+"C141","0.1uF/25V","TopLayer","CAP_C_1005X60","17.7300","47.9624","270","CAP"
 "C139","0.1uF/25V","TopLayer","CAP_C_1005X60","78.3545","69.8894","0","CAP"
 "C138","10uF/25V","TopLayer","CAP_C_2012X110","75.1855","70.3646","0","CAP High Value"
 "C137","0.1uF/25V","BottomLayer","CAP_C_1005X60","78.1584","66.8166","0","CAP"
@@ -534,11 +536,11 @@ Units used: mm
 "C24","12pF/50V","BottomLayer","CAP_C_1005X60","35.8700","55.9200","270","CAP"
 "C23","0.1uF/25V","TopLayer","CAP_C_1005X60","66.8200","38.6250","180","CAP"
 "C18","0.1uF/25V","BottomLayer","CAP_C_1005X60","9.3400","81.1050","90","CAP"
-"C17","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.5006","47.0409","90","CAP"
-"C16","0.1uF/25V","BottomLayer","CAP_C_1608X80","25.1401","48.2985","270","CAP"
-"C15","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.0333","40.6326","0","CAP"
-"C14","0.1uF/25V","BottomLayer","CAP_C_1005X60","24.1000","43.4326","90","CAP"
-"C13","0.1uF/25V","BottomLayer","CAP_C_1005X60","25.1401","43.4326","90","CAP"
+"C17","0.1uF/25V","BottomLayer","CAP_C_1005X60","14.0333","51.6194","0","CAP"
+"C16","0.1uF/25V","BottomLayer","CAP_C_1608X80","22.5150","50.2144","0","CAP"
+"C15","4.7nF/50V","BottomLayer","CAP_C_1608X80","14.4333","40.0326","180","CAP"
+"C14","0.1uF/25V","BottomLayer","CAP_C_1005X60","24.1000","45.1326","90","CAP"
+"C13","0.1uF/25V","BottomLayer","CAP_C_1005X60","25.1401","45.1326","90","CAP"
 "C12","2.2nF/50V","TopLayer","CAP_C_1005X60","20.8432","34.3171","180","CAP"
 "C11","2.2nF/50V","TopLayer","CAP_C_1005X60","20.8432","37.3013","180","CAP"
 "C10","1uF/25V","TopLayer","CAP_C_1005X60","16.6396","37.5013","0","CAP"
